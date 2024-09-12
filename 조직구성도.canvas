@@ -1,0 +1,355 @@
+{
+  "nodes": [
+    {
+      "id": "0ea0ddcdbff10c0f",
+      "type": "text",
+      "text": "# 대표이사",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -114,
+      "y": -240,
+      "width": 264,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "2b8848b4fd5fd3fc",
+      "type": "text",
+      "text": "## 경영지원본부",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -372,
+      "y": -20,
+      "width": 260,
+      "height": 60,
+      "color": "#0400ff"
+    },
+    {
+      "id": "40839a8681d06744",
+      "type": "text",
+      "text": "### 회계팀",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -740,
+      "y": 40,
+      "width": 260,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "19f30c9c94e56c0f",
+      "type": "text",
+      "text": "### 총무팀",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -740,
+      "y": -80,
+      "width": 260,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "f003dd5660041995",
+      "type": "text",
+      "text": "## HR(인사부)",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 170,
+      "y": -20,
+      "width": 260,
+      "height": 60,
+      "color": "#0400ff"
+    },
+    {
+      "id": "b12b9d210fa78ee1",
+      "type": "text",
+      "text": "### 복지팀",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 560,
+      "y": 40,
+      "width": 260,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "255457fe341d2906",
+      "type": "text",
+      "text": "### 채용팀",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 560,
+      "y": -80,
+      "width": 260,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "77e8c18ef780625f",
+      "type": "text",
+      "text": "## 연구개발 부서",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -114,
+      "y": 560,
+      "width": 260,
+      "height": 120,
+      "color": "#0400ff"
+    },
+    {
+      "id": "42f1bee3259465c3",
+      "type": "text",
+      "text": "## 제조 부서",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 292,
+      "y": 560,
+      "width": 260,
+      "height": 120,
+      "color": "#0400ff"
+    },
+    {
+      "id": "f9a34298146d1335",
+      "type": "text",
+      "text": "## 컨설팅 부서",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 720,
+      "y": 560,
+      "width": 260,
+      "height": 120,
+      "color": "#0400ff"
+    },
+    {
+      "id": "882584d3ab763b77",
+      "type": "text",
+      "text": "###  스마트 센서 개발팀",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -114,
+      "y": 720,
+      "width": 260,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "edae20e76438816c",
+      "type": "text",
+      "text": "### AI 분석 도구 개발팀",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -114,
+      "y": 820,
+      "width": 260,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "5aab9e36a33265b3",
+      "type": "text",
+      "text": "### 자동화 솔루션 개발팀",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -114,
+      "y": 920,
+      "width": 260,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "ca58365aed6df988",
+      "type": "text",
+      "text": "###  부품 생산팀",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 292,
+      "y": 720,
+      "width": 260,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "5d17cc6e5c3442b3",
+      "type": "text",
+      "text": "### 모듈형 장비 개발팀",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 292,
+      "y": 820,
+      "width": 260,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "5494ffdce676af88",
+      "type": "text",
+      "text": "### 품질 검사팀",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 292,
+      "y": 920,
+      "width": 260,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "3817029e3c7aa0e5",
+      "type": "text",
+      "text": "###  컨설팅 서비스팀",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 720,
+      "y": 720,
+      "width": 260,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "aeeadcea501db047",
+      "type": "text",
+      "text": "### 성능 모니터링 시스템팀",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 720,
+      "y": 820,
+      "width": 260,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "41d1f9f70497e5d2",
+      "type": "text",
+      "text": "### 소프트웨어 개발팀",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 720,
+      "y": 920,
+      "width": 260,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "773a7f0725d3940e",
+      "type": "text",
+      "text": "### 교육 및 훈련팀",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 720,
+      "y": 1020,
+      "width": 260,
+      "height": 60,
+      "color": "4"
+    }
+  ],
+  "edges": [
+    {
+      "id": "d80b030552f93747",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "0ea0ddcdbff10c0f",
+      "fromSide": "bottom",
+      "toNode": "2b8848b4fd5fd3fc",
+      "toSide": "top"
+    },
+    {
+      "id": "0ba3bc9ed966b4c4",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "0ea0ddcdbff10c0f",
+      "fromSide": "bottom",
+      "toNode": "42f1bee3259465c3",
+      "toSide": "top"
+    },
+    {
+      "id": "173c8bfd9a27fe89",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "2b8848b4fd5fd3fc",
+      "fromSide": "left",
+      "toNode": "19f30c9c94e56c0f",
+      "toSide": "right"
+    },
+    {
+      "id": "d25662f92382638c",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "2b8848b4fd5fd3fc",
+      "fromSide": "left",
+      "toNode": "40839a8681d06744",
+      "toSide": "right"
+    },
+    {
+      "id": "1edbe6610cc6d2a8",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "0ea0ddcdbff10c0f",
+      "fromSide": "bottom",
+      "toNode": "f9a34298146d1335",
+      "toSide": "top"
+    },
+    {
+      "id": "ab6d0a2ff4cf6869",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "0ea0ddcdbff10c0f",
+      "fromSide": "bottom",
+      "toNode": "f003dd5660041995",
+      "toSide": "top"
+    },
+    {
+      "id": "314b9afe870bb815",
+      "styleAttributes": {},
+      "fromNode": "0ea0ddcdbff10c0f",
+      "fromSide": "bottom",
+      "toNode": "77e8c18ef780625f",
+      "toSide": "top"
+    },
+    {
+      "id": "c91a4b30c0d94f9b",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "f003dd5660041995",
+      "fromSide": "right",
+      "toNode": "255457fe341d2906",
+      "toSide": "left"
+    },
+    {
+      "id": "88cafdbbc6a1e085",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "f003dd5660041995",
+      "fromSide": "right",
+      "toNode": "b12b9d210fa78ee1",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {}
+}
